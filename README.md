@@ -1,3 +1,3 @@
-#UsePopcorn project
+UsePopcorn project
 
 react application
